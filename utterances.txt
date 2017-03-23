@@ -1,0 +1,3 @@
+GetExchangeIntent the exchange
+GetExchangeIntent tell me the exchange
+GetExchangeIntent whats the exchange

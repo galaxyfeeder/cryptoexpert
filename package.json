@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pack": "rm -f cryptoexpert.zip && zip -r cryptoexpert.zip index.js node_modules"
   },
   "author": "Gabriel Esteban <yufuven@gmail.com>",
   "license": "MIT",

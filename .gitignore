@@ -57,3 +57,6 @@ build/
 
 # typings
 typings/
+
+# zip package for amazon lamba
+cryptoexpert.zip
