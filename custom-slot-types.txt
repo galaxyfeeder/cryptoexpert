@@ -6,6 +6,18 @@ Kraken
 
 CRYPTOCURRENCIES
 bitcoin
+BTC
 ethereum
+ETH
 monero
+XMR
 digital cash
+DASH
+xem
+XEM
+euro
+EUR
+dollar
+USD
+pound
+GBP
