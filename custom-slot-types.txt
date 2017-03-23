@@ -1,0 +1,11 @@
+EXCHANGE_SERVICES
+Poloniex
+GDax
+Coinbase
+Kraken
+
+CRYPTOCURRENCIES
+bitcoin
+ethereum
+monero
+digital cash

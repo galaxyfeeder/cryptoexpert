@@ -1,7 +1,17 @@
 {
     "intents": [
         {
-            "intent": "GetExchangeIntent"
+            "intent": "GetExchangeIntent",
+            "slots": [
+                {
+                    "name": "CurrencyA",
+                    "type": "CRYPTOCURRENCIES"
+                },
+                {
+                    "name": "CurrencyB",
+                    "type": "CRYPTOCURRENCIES"
+                }
+            ]
         },
         {
             "intent": "AMAZON.HelpIntent"

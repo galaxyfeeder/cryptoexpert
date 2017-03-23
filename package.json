@@ -10,6 +10,7 @@
   "author": "Gabriel Esteban <yufuven@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "alexa-sdk": "^1.0.7"
+    "alexa-sdk": "^1.0.7",
+    "request": "^2.81.0"
   }
 }
