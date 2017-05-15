@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pack": "rm -f cryptoexpert.zip && zip -r cryptoexpert.zip index.js node_modules"
+    "pack": "rm -f cryptoexpert.zip && zip -r cryptoexpert.zip index.js node_modules",
+    "clean": "rm -f cryptoexpert.zip"
   },
   "author": "Gabriel Esteban <yufuven@gmail.com>",
   "license": "MIT",

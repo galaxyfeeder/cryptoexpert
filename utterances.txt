@@ -1,3 +1,12 @@
 GetExchangeIntent the exchange between {CurrencyA} and {CurrencyB}
+GetExchangeIntent the price between {CurrencyA} and {CurrencyB}
+GetExchangeIntent the exchange price between {CurrencyA} and {CurrencyB}
 GetExchangeIntent tell me the exchange between {CurrencyA} and {CurrencyB}
+GetExchangeIntent tell me the price between {CurrencyA} and {CurrencyB}
+GetExchangeIntent tell me the exchange price between {CurrencyA} and {CurrencyB}
 GetExchangeIntent what's the exchange between {CurrencyA} and {CurrencyB}
+GetExchangeIntent what's the exchange price between {CurrencyA} and {CurrencyB}
+GetExchangeIntent what's the price between {CurrencyA} and {CurrencyB}
+GetExchangeIntent the price buying {CurrencyA} with {CurrencyB}
+GetExchangeIntent tell me the price buying {CurrencyA} with {CurrencyB}
+GetExchangeIntent what's the price buying {CurrencyA} with {CurrencyB}

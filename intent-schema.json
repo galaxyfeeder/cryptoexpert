@@ -5,11 +5,11 @@
             "slots": [
                 {
                     "name": "CurrencyA",
-                    "type": "CRYPTOCURRENCIES"
+                    "type": "CURRENCIES"
                 },
                 {
                     "name": "CurrencyB",
-                    "type": "CRYPTOCURRENCIES"
+                    "type": "CURRENCIES"
                 }
             ]
         },
